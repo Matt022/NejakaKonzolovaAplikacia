@@ -10,7 +10,15 @@ namespace JustSimpleConsoleApp
             string? name = Console.ReadLine();
 
 
-            var pozdrav = new Pozdrav(name);
+            var greetings = new Pozdrav(name);
+
+            Console.WriteLine();
+
+            Console.Write("Type your lastname: ");
+            string? lastName = Console.ReadLine();
+
+            var greetingsSecond = new Pozdrav(name, lastName);
+
         }
     }
 }
