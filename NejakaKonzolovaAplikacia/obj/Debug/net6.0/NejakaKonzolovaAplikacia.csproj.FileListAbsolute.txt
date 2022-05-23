@@ -1,0 +1,15 @@
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\bin\Debug\net6.0\NejakaKonzolovaAplikacia.exe
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\bin\Debug\net6.0\NejakaKonzolovaAplikacia.deps.json
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\bin\Debug\net6.0\NejakaKonzolovaAplikacia.runtimeconfig.json
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\bin\Debug\net6.0\NejakaKonzolovaAplikacia.dll
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\bin\Debug\net6.0\NejakaKonzolovaAplikacia.pdb
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.csproj.AssemblyReference.cache
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.AssemblyInfoInputs.cache
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.AssemblyInfo.cs
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.csproj.CoreCompileInputs.cache
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.dll
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\refint\NejakaKonzolovaAplikacia.dll
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.pdb
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\NejakaKonzolovaAplikacia.genruntimeconfig.cache
+C:\Users\matus\Desktop\NejakaKonzolovaAplikacia\NejakaKonzolovaAplikacia\obj\Debug\net6.0\ref\NejakaKonzolovaAplikacia.dll

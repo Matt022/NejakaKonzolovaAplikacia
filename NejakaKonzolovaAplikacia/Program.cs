@@ -9,9 +9,8 @@ namespace JustSimpleConsoleApp
             Console.Write("Type your name: ");
             string? name = Console.ReadLine();
 
-            Console.WriteLine($"Hello, {name}");
 
-            var pozdrav = new Pozdrav();
+            var pozdrav = new Pozdrav(name);
         }
     }
 }
