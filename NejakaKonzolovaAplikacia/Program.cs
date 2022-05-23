@@ -10,6 +10,8 @@ namespace JustSimpleConsoleApp
             string? name = Console.ReadLine();
 
             Console.WriteLine($"Hello, {name}");
+
+            var pozdrav = new Pozdrav();
         }
     }
 }
