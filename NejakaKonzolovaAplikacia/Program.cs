@@ -1,4 +1,6 @@
-﻿namespace JustSimpleConsoleApp
+﻿using NejakaKonzolovaAplikacia;
+
+namespace JustSimpleConsoleApp
 {
     class Program
     {
